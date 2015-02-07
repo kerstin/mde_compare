@@ -1,6 +1,31 @@
 #MDE Compare
 Test file for comparing different Markdown environments.
 
+##Line breaks
+
+###Newlines created by pressing the Enter key
+
+This text is followed by a newline.
+This text is followed by two newlines (resulting in an empty line).
+
+This text immediately follows the line break method used above.
+
+###Linebreaks created using the HTML `<br>` tag.
+
+This text is immediately followed by a `<br>` tag.<br>
+This text is immediately followed by two `<br>` tags.<br><br>This text immediately follows the line break method used above.
+
+###Mixed line breaks
+
+This text is immediately followed by two `<br>` tags and a newline.<br><br>
+This text is followed by a newline, a `<br>` tag and another newline.
+<br>
+This text is followed by two newlines, a `<br>` tag and two more newlines.
+
+<br>
+
+This text immediately follows the line break method used above.
+
 ##Lists
 ###Unordered lists
 
@@ -53,27 +78,4 @@ These code blocks are surrounded by the HTML `<pre></pre>` tag (for pre-formatte
 This line of text is followed by a newline (with pre it doesn't seem to make a difference if it's preceded by one, two or no newline; pre-formatted code blocks appear to always display below the text preceding them)
 <pre>This is some text formatted as code using backticks. It's regular text on purpose to test how different Markdown software handles wrapping of such text. I'll also throw a long HTML-formatted link in here: <a href="http://i.guim.co.uk/static/w-620/h--/q-95/sys-images/Film/Pix/pictures/2014/12/4/1417687817859/Forum-menace---an-image-f-011.jpg">http://i.guim.co.uk/static/w-620/h--/q-95/sys-images/Film/Pix/pictures/2014/12/4/1417687817859/Forum-menace---an-image-f-011.jpg</a></pre>
 
-##Line breaks
 
-## Newlines created by pressing the Enter key
-
-This text is followed by a newline.
-This text is followed by two newlines (resulting in an empty line).
-
-This text immediately follows the line break method used above.
-
-## Linebreaks created using the HTML `<br>` tag.
-
-This text is immediately followed by a `<br>` tag.<br>
-This text is immediately followed by two `<br>` tags.<br><br>This text immediately follows the line break method used above.
-
-## Mixed line breaks
-
-This text is immediately followed by two `<br>` tags and a newline.<br><br>
-This text is followed by a newline, a `<br>` tag and another newline.
-<br>
-This text is followed by two newlines, a `<br>` tag and two more newlines.
-
-<br>
-
-This text immediately follows the line break method used above.
