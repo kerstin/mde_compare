@@ -4,10 +4,10 @@
 
 [**Download:** http://linktodownload - if this version is not available on the official website; optional]
 
-**Type:** Editor | Previewer | Plugin for OtherSoftware (http://linktoothersoftware)
+**Type:** Editor|Previewer|Plugin for OtherSoftware (http://linktoothersoftware)
 
-**Supported OS:** Mac, Linux, Windows
-**Cost:** free | $xx.xx, free trial for x days | €xx.xx | ...
+**Supported OS:** Mac[, Linux, Windows]
+**Cost:** free|$xx.xx, free trial for x days|€xx.xx| ...
 
 **Tested on:** OS
 **Version:** exact version number, e.g.: 10.10 (OS X Yosemite)
@@ -17,4 +17,6 @@
 
 [**Cons:** describe cons related to the test; optional]
 
-**Screenshot:** 
+**Screenshot:** [Filename.png](/images/Filename.png)
+
+![Filename.png](../images/Filename.png)
