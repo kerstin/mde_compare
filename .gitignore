@@ -1,9 +1,10 @@
 *
+
 !*.md
 !*.png
-!.gitignore
+!*gitignore
 
-!images/*
-!mde/*
+!images/
+!mde/
 
 !*/
