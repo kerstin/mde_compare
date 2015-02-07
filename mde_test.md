@@ -55,4 +55,25 @@ This line of text is followed by a newline (with pre it doesn't seem to make a d
 
 ##Line breaks
 
-*TODO*
+## Newlines created by pressing the Enter key
+
+This text is followed by a newline.
+This text is followed by two newlines (resulting in an empty line).
+
+This text immediately follows the line break method used above.
+
+## Linebreaks created using the HTML `<br>` tag.
+
+This text is immediately followed by a `<br>` tag.<br>
+This text is immediately followed by two `<br>` tags.<br><br>This text immediately follows the line break method used above.
+
+## Mixed line breaks
+
+This text is immediately followed by two `<br>` tags and a newline.<br><br>
+This text is followed by a newline, a `<br>` tag and another newline.
+<br>
+This text is followed by two newlines, a `<br>` tag and two more newlines.
+
+<br>
+
+This text immediately follows the line break method used above.
