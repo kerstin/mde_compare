@@ -1,4 +1,9 @@
 *
-!.md
-!.png
+!*.md
+!*.png
 !.gitignore
+
+!images/*
+!mde/*
+
+!*/
