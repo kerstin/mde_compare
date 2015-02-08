@@ -7,5 +7,5 @@ As I'm currently looking for a preferably free (or otherwise cheap) MD editor fo
 
 Anyone is welcome to contribute by uploading own screenshots of software they are using, testing or actively developing, or by adding additional syntax (markup they feel should be included also) to the test file - though it might be a while until previously tested software gets re-tested with new versions of the file.
 
-[Template for adding new MDE](template.md)
+[Template for adding new MDE](template.md)<br>
 [Test file](test.md)
