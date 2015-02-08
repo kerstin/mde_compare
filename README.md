@@ -9,3 +9,5 @@ Anyone is welcome to contribute by uploading own screenshots of software they ar
 
 [Test file](test.md)<br>
 [Template for adding new MDE](template.md)<br>
+
+Note that images generated via the "Print as PDF" functionality will show different renderings of the syntax, meaning actual (stitched-together) screenshots of all MDE are needed.
