@@ -38,6 +38,7 @@ This line is followed by a newline, which is immediately followed by bullets for
 * level 1 again 
 This line immediately follows the newline after the last bullet point, "level 1 again".
 <br>
+<br>
 This line is offset from the bullets below by two newlines/one empty line.
 
 * level 1
