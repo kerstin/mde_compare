@@ -4,7 +4,7 @@
 
 **Type:** Editor
 
-**Supported OS:** Mac OS X 10.7 (Yosemite-ready)
+**Supported OS:** Mac OS X 10.7+ (Yosemite-ready)
 **Cost:** free
 
 **Tested on:** Mac
